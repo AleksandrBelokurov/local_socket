@@ -1,0 +1,4 @@
+echosrv
+*.o
+*.log
+
